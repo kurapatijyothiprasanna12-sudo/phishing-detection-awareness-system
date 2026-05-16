@@ -1,0 +1,49 @@
+Phishing Awareness Guidelines
+
+Purpose:
+These guidelines help employees identify phishing attempts and avoid credential theft, malware infections, and social engineering attacks.
+
+How Phishing Attacks Work
+
+Phishing attackers attempt to trick users into:
+- clicking malicious links
+- downloading infected attachments
+- sharing passwords or OTPs
+- revealing sensitive information
+
+Attackers commonly use fake emails that imitate trusted organizations.
+
+Common Phishing Indicators
+
+1. Suspicious sender domains
+2. Urgent or threatening language
+3. Generic greetings
+4. Suspicious links
+5. Unexpected attachments
+6. Requests for passwords or OTPs
+7. Poor grammar or spelling mistakes
+
+Employee Safety Tips
+
+- Verify sender email addresses carefully
+- Hover over links before clicking
+- Never share passwords through email
+- Avoid downloading unexpected attachments
+- Confirm urgent requests through official channels
+- Report suspicious emails to the IT/security team
+
+Do's
+- Verify domains before clicking links
+- Use strong passwords and MFA
+- Report suspicious emails immediately
+- Contact official support teams directly
+
+Don'ts
+- Do not click unknown links
+- Do not share OTPs through email
+- Do not trust urgent scare tactics
+- Do not open suspicious attachments
+
+Conclusion
+
+User awareness is one of the strongest defenses against phishing attacks. Regular security awareness training can significantly reduce the success rate of phishing campaigns.

@@ -1,0 +1,16 @@
+Project:
+Phishing Email Detection & Awareness System
+
+Objective:
+Analyze phishing email samples, identify phishing indicators, classify risks, and prepare a phishing awareness report.
+
+Tools Planned:
+- Browser
+- Email Header Analyzer
+- MXToolbox
+- Google Message Header Analyzer
+- Canva / MS Word
+
+Performed URL reputation inspection using Google Safe Browsing Transparency Report.
+
+Performed phishing email header inspection using Google Message Header Analyzer.

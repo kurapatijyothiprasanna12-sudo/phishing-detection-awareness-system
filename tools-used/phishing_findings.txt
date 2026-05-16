@@ -1,0 +1,111 @@
+Finding 1:
+Suspicious Sender Domain
+
+Risk Level:
+High
+
+Observation:
+The sender email domain uses a suspicious and unofficial domain name.
+
+Why It Is Dangerous:
+Attackers often use fake domains that imitate legitimate services to trick users into trusting the email.
+
+Recommendation:
+Always verify sender domains carefully before clicking links or sharing credentials.
+
+Finding 2:
+Urgency and Fear-Based Language
+
+Risk Level:
+High
+
+Observation:
+The email uses threatening and urgent language to pressure the recipient into immediate action.
+
+Why It Is Dangerous:
+Users may panic and click malicious links without verifying authenticity.
+
+Recommendation:
+Users should avoid reacting emotionally to urgent security messages and independently verify requests.
+
+Finding 3:
+Suspicious Verification Link
+
+Risk Level:
+High
+
+Observation:
+The email contains a suspicious verification URL that does not appear to belong to a legitimate organization.
+
+Why It Is Dangerous:
+Attackers may redirect users to fake login pages designed to steal passwords or personal information.
+
+Recommendation:
+Users should hover over links before clicking and verify domains carefully.
+
+Finding 4:
+Generic Greeting
+
+Risk Level:
+Medium
+
+Observation:
+The email uses a generic greeting instead of addressing the recipient by name.
+
+Why It Is Dangerous:
+Generic greetings are commonly used in mass phishing campaigns targeting multiple users.
+
+Recommendation:
+Users should be cautious when emails do not include personalized information.
+
+Overall Email Classification:
+PHISHING
+
+Overall Risk Level:
+HIGH
+
+Risk Summary
+
+High Risk Findings:
+4
+
+Medium Risk Findings:
+1
+
+Low Risk Findings:
+0
+--------------------------------------------------
+
+URL Analysis
+
+Analyzed URL:
+http://secure-account-verify.com
+
+Observations:
+- Uses insecure HTTP protocol
+- Contains suspicious account verification wording
+- Does not belong to a recognized legitimate organization
+- Appears designed to imitate a security verification portal
+
+Risk Classification:
+HIGH
+
+Recommendation:
+Users should avoid clicking links from unsolicited emails and verify domains independently through official websites.
+
+--------------------------------------------------
+
+Finding 5:
+Suspicious Email Header Information
+
+Risk Level:
+High
+
+Observation:
+The email header contains suspicious sender infrastructure and unofficial mail routing information.
+
+Why It Is Dangerous:
+Attackers often use spoofed or unofficial mail servers to distribute phishing emails and hide their true origin.
+
+Recommendation:
+Organizations should implement SPF, DKIM, and DMARC policies to reduce email spoofing risks.

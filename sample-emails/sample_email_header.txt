@@ -1,0 +1,8 @@
+Return-Path: <security-update@secure-account-verify.com>
+Received: from unknown-server.secure-account-verify.com
+by mail.fakecompany.com with SMTP;
+Subject: Urgent: Your Account Will Be Locked
+From: security-update@secure-account-verify.com
+To: victim@example.com
+Date: Tue, 12 May 2026 10:22:14 +0000
+Message-ID: <12345@secure-account-verify.com>
